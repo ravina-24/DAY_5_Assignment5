@@ -12,6 +12,8 @@ namespace DAY_5_Assignment5
 
             PowerOFTwo p = new PowerOFTwo();
             p.printPowerOfTwo();
+
+            Console.ReadLine();
         }
     }
 }
