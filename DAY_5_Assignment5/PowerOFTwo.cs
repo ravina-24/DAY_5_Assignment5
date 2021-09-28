@@ -12,7 +12,6 @@ namespace DAY_5_Assignment5
             Console.WriteLine("Enter number till which you want to print power of 2 = ");
             Num = Convert.ToInt32(Console.ReadLine());
 
-
             Console.WriteLine( );
             for (int i=1;i<=Num;i++)
             {
