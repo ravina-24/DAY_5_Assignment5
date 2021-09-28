@@ -14,7 +14,6 @@ namespace DAY_5_Assignment5
             Console.WriteLine("Enter the Number");
             Num = Convert.ToInt32(Console.ReadLine());
 
-           
             int countofHeads = 0;
             int countofTail = 0;
             int i = 0;
