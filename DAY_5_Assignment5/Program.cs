@@ -7,11 +7,11 @@ namespace DAY_5_Assignment5
     {
         static void Main(string[] args)
         {
-            //FlipCoin f = new FlipCoin();
-            //f.calculatePercentage();
+            FlipCoin f = new FlipCoin();
+            f.calculatePercentage();
 
-            //PowerOFTwo p = new PowerOFTwo();
-            //p.printPowerOfTwo();
+            PowerOFTwo p = new PowerOFTwo();
+            p.printPowerOfTwo();
 
 
             GamblingSimulator gamblingSimulator = new GamblingSimulator();
